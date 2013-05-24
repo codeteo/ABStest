@@ -7,17 +7,15 @@
   
      <TextView  
      android:id="@+id/textView1"  
+     android:text="Tab 2"  
      android:layout_width="match_parent"  
      android:layout_height="wrap_content"  
-     android:gravity="center"  
-     android:text="Tab 2"  
-     android:textAppearance="?android:attr/textAppearanceLarge" />  
+     android:gravity="center"  />
    
    <Button  
      android:id="@+id/button2"  
      android:layout_width="wrap_content"  
      android:layout_height="wrap_content"  
-     android:text="Button 2" >  
-   </Button>  
+     android:text="Button 2" />  
    
  </LinearLayout>  
